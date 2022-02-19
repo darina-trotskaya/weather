@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    height: 100vh;
+    font-family: 'Comfortaa', cursive;
+    background-color: #244630;
+}
+
+.card {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 40px;
+    padding: 2em;
+    background-color: #4e7259;
+    color: #ffffff;
+}
+
+.descripcion {
+    padding: 0.1em;
+    font-weight: 200;
+}
+
+.humidity {
+    padding: 0.1em;
+    font-weight: 200;
+}
+
+.wind_speed {
+    padding: 0.1em;
+    font-weight: 200;
+}
